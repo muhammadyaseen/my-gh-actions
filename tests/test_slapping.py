@@ -39,7 +39,7 @@ def test_invalid_slap():
         slap_many(LikeState.empty, 'x')
 
 
-@pytest.mark.xfail
+# @pytest.mark.xfail
 def test_db_slap(db_conn):
     db_conn.read_slaps()
     assert ...
