@@ -1,7 +1,7 @@
 # Slap That Like Button
 A starter project to show how to set up and use automated testing in Python
 
-![Tests](https://github.com/muhammadyaseen/my-gh-actions/workflows/tests.yaml/badge.svg)
+![Tests](https://github.com/muhammadyaseen/my-gh-actions/actions/workflows/tests.yaml/badge.svg)
 
 # Changes
 
