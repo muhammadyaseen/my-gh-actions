@@ -7,6 +7,7 @@ A starter project to show how to set up and use automated testing in Python
 
 - Removed `tox`,`mypy`,`flake8` dependencies for simplicity
 - Updated `tests.yaml` file to only depend on `python` and `pytest`
+- Added `black` formatting check in workflow
 
 # Acknowledgement
 
